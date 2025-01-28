@@ -1,0 +1,2 @@
+# Predicting-Road-Surface-Conditions-Using-SAR-Satellite-Imagery-and-Deep-Learning-Models
+This research focuses on predicting road surface conditions using Synthetic Aperture Radar (SAR) satellite imagery combined with a machine learning framework.  Few-shot learning falls under meta-learning(learning to learn), the way we are able to identify new classes of data easily using only a few examples using our previously learned knowledge. 
